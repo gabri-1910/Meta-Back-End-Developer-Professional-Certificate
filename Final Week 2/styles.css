@@ -1,0 +1,19 @@
+#photo{
+    border: 2px;
+    height: 200px;
+    width: 200px;
+    border-color: blue;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: gray;
+}
+div{
+    color: aliceblue;
+    margin: 4px;
+}
